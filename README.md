@@ -1,3 +1,6 @@
+> [!CAUTION]
+> ### This repository provides an experimental integration of GitHub Copilot Chat into [Che Code](https://github.com/che-incubator/che-code). It is not an official integration and is not supported by Red Hat or Microsoft. Compatibility may change without notice as upstream APIs and policies evolve.
+
 # GitHub Copilot - Your autonomous AI peer programmer
 
 **[GitHub Copilot](https://code.visualstudio.com/docs/copilot/overview)** is an AI peer programming tool that transforms how you write code in Visual Studio Code.
